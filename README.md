@@ -1,4 +1,4 @@
 # xyToken
-学习solidity写的第一个ERC20代币^^（虽然没有授权转账，会补上的）
+学习solidity写的第一个ERC20标准代币^^
 
-部署在sepolia测试网，合约地址0xe8b3557e1724e9739ca80a1e8736146448f8cb1dd3dec34489a3ece299a4fb36
+部署在sepolia测试网，合约地址0x3f0bf869dbe7d3e8ffe91971cd352935a48bcb6d07d9c290ab2d92f556d94103
